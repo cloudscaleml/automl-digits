@@ -6,6 +6,5 @@ logs/
 outputs/
 *.dot
 *.npz
-*.ipynb
 *.tfrecords
 *.log
